@@ -1,1 +1,1 @@
-# edienkarte :)
+# Ēdienkarte :)
