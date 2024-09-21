@@ -5,4 +5,4 @@
 | Row 3        | Description 3   | Feature 3             | Limitation 3   |
 | Row 4        | Description 4   | Feature 4             | Limitation 4   |
 | Row 5        | Description 5   | Feature 5             | Limitation 5   |
-
+| Row 6        | Description 5   | Feature 5             | Limitation 5   |
