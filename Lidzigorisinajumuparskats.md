@@ -9,3 +9,12 @@
 
 # Konceptu modelis
 ![Konceptu modelis](https://i.imgur.com/9iz8mOC.png)
+
+| # Tehnoloģiju steks |
+|---------------------|
+| Satvars: Python Flask |
+| Programmēšanas valoda: Python |
+| Datu bāze: MongoDB |
+| Tīmekļa serveris: Apache |
+| OS: Ubuntu |
+| Virtualizācija: Oracle VM VirtualBox |
