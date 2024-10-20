@@ -1,3 +1,4 @@
+# Līdzīgo risinājumu pārskats
 | Risinājums   | Īss apraksts   | Svarīgākās iezīmes   | Ierobežojumi   |
 |--------------|----------------|----------------------|----------------|
 | Noom (noom.com) | Svara zaudēšanas mājaslapa, kas vairāk bāzējas uz psiholoģiju un ieradumiem, bet ir arī ēdienkartes plānošanas un kaloriju skaitīšanas funkcijas. | - Seko līdzi uzņemtajām kalorijām <br> - Iesaka personalizētu ēdienkartes plānu <br> - Piedāvā izglītojošu informāciju katru dienu |- Piedāvā tikai zaudēt svaru, nepieņem cilvēkus ar BMI (body mass index) zem 18.5 <br> - Produkts ir par maksu, nav izmēģinājuma perioda <br> - Maksas opcijas ir pārmērīgi dārgas <br> - Sliktas atsauksmes par klientu atbalstu un aplikācijas kvalitāti   |
@@ -10,7 +11,7 @@
 # Konceptu modelis
 ![Konceptu modelis](https://i.imgur.com/9iz8mOC.png)
 
-| # Tehnoloģiju steks |
+| Tehnoloģiju steks |
 |---------------------|
 | Satvars: Python Flask |
 | Programmēšanas valoda: Python |
