@@ -10,7 +10,7 @@
 
 # Konceptu modelis
 ![Konceptu modelis](https://imgur.com/a/IWJoM74.png)
-
+Links pašlaik nestrādā, bet, ja nokopē un ieliek internetā- strādā: https://imgur.com/a/IWJoM74
 | Tehnoloģiju steks |
 |---------------------|
 | Satvars: Python Flask |
