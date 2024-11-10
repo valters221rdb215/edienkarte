@@ -9,7 +9,7 @@
 | Mealime (mealime.com)  | Uztura plānošanas aplikācija, lai atvieglotu visu ēdiena gatavošanas procesu, sākot ar plānošanu, pirkšanu un beidzot ar taisīšanu. Tā piedāvā vieglas un veselīgas receptes ar detalizētu uzturvērtību sarakstu un var pielāgoties jebkurai diētai.   | - Ļauj izveidot uztura plānu un pielāgot to jebkurai diētai <br> - Automātiski izveido veikala sarakstu attiecīgi tavam uztura plānam <br> - Piedavā daudz dažādu recepšu un tās ir vieglas un ātri uztaisāmas  | - Pievienot jaunas receptes no interneta var būt apgrūtinoši, un ja tās nav pievienotas pareizi tad to atjaunināšana var būt ļoti grūta <br> - Aplikācija ir pieejama tikai uz mobilajiem telefoniem <br> - Maksas versijā ir daudz vairāk  uztura plānošanas opciju, nekā bezmaksas   |
 
 # Konceptu modelis
-![Konceptu modelis](https://imgur.com/a/IWJoM74.png)
+![Konceptu modelis](https://i.imgur.com/gyBIJqq.png)
 Links uz konceptu modeli: https://imgur.com/a/IWJoM74
 | Tehnoloģiju steks |
 |---------------------|
