@@ -17,5 +17,5 @@ Links uz konceptu modeli: https://imgur.com/a/noL3MtN
 | Programmēšanas valoda: Python |
 | Datu bāze: MongoDB |
 | Tīmekļa serveris: Apache |
-| OS: Ubuntu |
+| OS: Debian |
 | Virtualizācija: Oracle VM VirtualBox |
