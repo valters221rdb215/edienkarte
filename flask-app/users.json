@@ -1,0 +1,26 @@
+{
+    "testuser": {
+        "password": "scrypt:32768:8:1$l1x2lCFdQYXkRJ3e$1b9ee425ada47cd4fa10a4b7170f8329ad7547200d50eb820cff37d00632a8c5498449e14629090f40e5eac9ee29869190367ed7cbaca84aad8d7f3552b83073",
+        "preferences": {}
+    },
+    "aa": {
+        "password": "scrypt:32768:8:1$y7Fhd4jwYEYE5Ml4$e23beb594e72e8501c481404f4505713f81990641980dc3279c5f5e1ff9dd0aa3c040fb1eca6faac53fdec56e4181ace5a3651b23cf181cba938f0f30fc764b3",
+        "preferences": {
+            "age": "20",
+            "weight": "100",
+            "height": "200",
+            "sex": "male",
+            "unwantedIngredients": [
+                "1994 honda civic"
+            ],
+            "wantedIngredients": [
+                ""
+            ],
+            "choice": "suggested",
+            "calories": "",
+            "fat": "",
+            "carbohydrates": "",
+            "protein": ""
+        }
+    }
+}
