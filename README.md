@@ -5,7 +5,7 @@ Mārtiņš Zviedris,
 Andris Martinsons,
 Sandis Šarkovskis,
 Emīls Krūmiņš,
-Dāvids Ceimers,
+Dāvids Ceimers
 
 
 ## Mājaslapas dzīvais režīms
