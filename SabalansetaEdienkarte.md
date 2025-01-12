@@ -19,3 +19,7 @@ Links uz konceptu modeli: https://imgur.com/a/noL3MtN
 | Tīmekļa serveris: Apache |
 | OS: Debian |
 | Virtualizācija: Oracle VM VirtualBox |
+
+# Plakāts
+![Plakāts](https://i.imgur.com/72Fico1.jpeg)
+Links uz plakātu: https://imgur.com/a/plak-ts-th2GCv6
