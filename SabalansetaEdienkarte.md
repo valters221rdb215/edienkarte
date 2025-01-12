@@ -23,3 +23,15 @@ Links uz konceptu modeli: https://imgur.com/a/noL3MtN
 # Plakāts
 ![Plakāts](https://i.imgur.com/72Fico1.jpeg)
 Links uz plakātu: https://imgur.com/a/plak-ts-th2GCv6
+
+
+# Grupas biedru paveiktais
+| Dalībnieks           | Paveiktais                                                                                             |
+|-----------------------|-------------------------------------------------------------------------------------------------------|
+| Andris Martinsons    | VM/servera uzstādīšana, piedalījās algoritma veidošanā - pilnveidoja kodu, pielāgoja kodu serverim, datubāzes iegūšana |
+| Emīls Krūmiņš        | Galvenais programmas veidotājs - back-end, front-end, kļūdu labošana                                   |
+| Dāvids Ceimers       | Mājaslapas kļūdu testētājs, plakāta veidošana, mājaslapas pilnveidošanas analīze                        |
+| Valters Kurmis       | Datubāzes labošana un pilnveidošana, plakāta veidošana, GitHub atbildīgais                             |
+| Sandis Šarkovskis    | Nodrošināja projekta prasību izpildi, piedalījās mājaslapas funkcionalitātes testēšanā, plakāta izdrukāšana, ieteikumi uzlabojumiem |
+| Mārtiņš Evarts Zviedris | Datu bāzu analizēšana un izvēlēšanās, lietotāju pieredzes analīze, ieteikumi uzlabojumiem           |
+Visi grupas dalībnieki vēl līdzvērtīgi piedalījās semestra laikā uzdotajos darbos, kas bija jāiesniedz.
