@@ -34,4 +34,6 @@ Links uz plakātu: https://imgur.com/a/plak-ts-th2GCv6
 | Valters Kurmis       | Datubāzes labošana un pilnveidošana, plakāta veidošana, GitHub atbildīgais                             |
 | Sandis Šarkovskis    | Nodrošināja projekta prasību izpildi, piedalījās mājaslapas funkcionalitātes testēšanā, plakāta izdrukāšana, ieteikumi uzlabojumiem |
 | Mārtiņš Evarts Zviedris | Datu bāzu analizēšana un izvēlēšanās, lietotāju pieredzes analīze, ieteikumi uzlabojumiem           |
+
+
 Visi grupas dalībnieki vēl līdzvērtīgi piedalījās semestra laikā uzdotajos darbos, kas bija jāiesniedz.
